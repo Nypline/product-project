@@ -1,4 +1,4 @@
-import Navbar from "./components/navbar";
+import Navbar from "./components/Navbar";
 import ProductDetail from "./pages/ProductDetail";
 import { useState } from "react";
 
